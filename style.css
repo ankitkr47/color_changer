@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    width: 80%;
+    margin: 100px auto 100px;
+    text-align: center;
+}
+span{
+    display: block;
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+    font-size: 2.5rem;
+}
+.button{
+    display: inline-block;
+    width:100px;
+    height: 100px;
+    border: solid black 2px;
+    /* margin-bottom: 2rem; */
+}
+#grey{
+    background-color: grey;
+}
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
+#brown{
+    background-color: brown;
+}
+h2{
+    margin-top: 2rem;
+}
